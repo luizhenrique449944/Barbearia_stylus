@@ -1,2 +1,2 @@
 # Barbearia_stylus
-Mini panfleto (Barbearia)...
+Mini panfleto (Barbearia)
